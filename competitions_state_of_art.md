@@ -66,7 +66,7 @@ https://arxiv.org/abs/1803.09820
 
 *Learn From Random Weights*
 
-https://www.fast.ai/2020/01/13/self_supervised/
+https://github.com/fastai/imagenette
 ---
 ## Researchers Did Too Well
 
